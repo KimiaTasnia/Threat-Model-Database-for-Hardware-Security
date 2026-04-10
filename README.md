@@ -36,9 +36,7 @@ This structure helps unify threat representation and makes the database suitable
 
 The figure below illustrates the process of TMDB generation.
 
-![TMDB Generation Process](image.png)
-
-> Replace `image.png` with the filename of your uploaded figure.
+![TMDB Generation Process](TMDB_generation_flow.pdf)
 
 ## Repository Contents
 
