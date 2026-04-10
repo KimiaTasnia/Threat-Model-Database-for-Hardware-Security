@@ -4,7 +4,7 @@ Threat modeling is essential for identifying security risks early in the design 
 
 The **Threat Model Database (TMDB)** is developed to address this gap. TMDB provides a structured and security-critical database of hardware threat models to support researchers, practitioners, and the broader security community in evaluating vulnerabilities and analyzing potential threats at early design stages.
 
-TMDB is generated using **ATLAS**, which leverages the **National Vulnerability Database (NVD)** as a primary knowledge source. Maintained by the **National Institute of Standards and Technology (NIST)**, NVD is a comprehensive repository of publicly disclosed cybersecurity vulnerabilities spanning software, hardware, and other digital systems. TMDB particularly draws on key NVD components such as:
+In our paper "[ATLAS: AI-Assisted Threat-to-Assertion Learning for System-on-Chip Security Verification](https://arxiv.org/abs/2603.01170)" we generated TMDB, which leverages the **National Vulnerability Database (NVD)** as a primary knowledge source. Maintained by the **National Institute of Standards and Technology (NIST)**, NVD is a comprehensive repository of publicly disclosed cybersecurity vulnerabilities spanning software, hardware, and other digital systems. TMDB particularly draws on key NVD components such as:
 
 - **CWE** — Common Weakness Enumeration  
 - **CVE** — Common Vulnerabilities and Exposures  
@@ -58,7 +58,16 @@ TMDB can support a variety of research and development activities, including:
 
 ## Citation / Acknowledgment
 
-If you use TMDB in your research or project, please cite the relevant paper, project page, or repository once available.
+If you use TMDB in your research or project, please cite the relevant paper, project page, or repository-
+@misc{tashdid2026atlasaiassistedthreattoassertionlearning,
+      title={ATLAS: AI-Assisted Threat-to-Assertion Learning for System-on-Chip Security Verification}, 
+      author={Ishraq Tashdid and Kimia Tasnia and Alexander Garcia and Jonathan Valamehr and Sazadur Rahman},
+      year={2026},
+      eprint={2603.01170},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2603.01170}, 
+}
 
 ## Contact
 
