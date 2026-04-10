@@ -57,8 +57,9 @@ TMDB can support a variety of research and development activities, including:
 ## Citation / Acknowledgment
 
 If you use TMDB in your research or project, please cite the relevant paper, project page, or repository-
+
 @misc{tashdid2026atlasaiassistedthreattoassertionlearning,
-      title={ATLAS: AI-Assisted Threat-to-Assertion Learning for System-on-Chip Security Verification}, 
+      title={ATLAS: AI-Assisted Threat-to-Assertion Learning for System-on-Chip Security Verification},
       author={Ishraq Tashdid and Kimia Tasnia and Alexander Garcia and Jonathan Valamehr and Sazadur Rahman},
       year={2026},
       eprint={2603.01170},
@@ -67,6 +68,3 @@ If you use TMDB in your research or project, please cite the relevant paper, pro
       url={https://arxiv.org/abs/2603.01170}, 
 }
 
-## Contact
-
-For questions, suggestions, or collaboration opportunities, please open an issue in this repository.
